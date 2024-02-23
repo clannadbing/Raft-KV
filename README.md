@@ -12,10 +12,6 @@
 
 * 实现**客户端协议**，包括在客户端协议中加入由ip和请求序号组成的“请求id”以保证线性一致性，以及客户端重试等功能。  
 
-## 框架
-
-![img](https://article-images.zsxq.com/FnyTjtal6byZPaG1eF69NKN57CbM)
-
 ## 快速开始
 
 ### 1.库准备
