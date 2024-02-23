@@ -78,6 +78,12 @@ raftCoreRun -n 3 -f test.conf
 #### 使用kv
 ## 致谢
 
-本项目参考自项目 https://github.com/youngyangyang04/Skiplist-CPP、https://github.com/youngyangyang04/KVstorageBaseRaft-cpp。
+本项目参考自项目：
 
-感谢以下朋友的帮助: [@思无邪](https://github.com/578223592)、[@程序员Carl](https://github.com/youngyangyang04)
+https://github.com/youngyangyang04/Skiplist-CPP
+
+https://github.com/youngyangyang04/KVstorageBaseRaft-cpp
+
+感谢以下朋友的帮助: 
+
+[@思无邪](https://github.com/578223592)、[@程序员Carl](https://github.com/youngyangyang04)
